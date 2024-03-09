@@ -1,0 +1,2 @@
+#deneme 
+README dosyası oluşturuldu
